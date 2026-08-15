@@ -1,5 +1,11 @@
 # LocalCast Audio
 
+[![GitHub stars](https://img.shields.io/github/stars/yourusername/localcast-audio?style=social)](https://github.com/yourusername/localcast-audio/stargazers)
+[![GitHub forks](https://img.shields.io/github/forks/yourusername/localcast-audio?style=social)](https://github.com/yourusername/localcast-audio/network/members)
+[![GitHub issues](https://img.shields.io/github/issues/yourusername/localcast-audio)](https://github.com/yourusername/localcast-audio/issues)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
+
 LocalCast Audio is a zero-cost, ultra-low-latency local Wi-Fi audio streaming application. It allows a host Windows machine to stream its system audio over a local network (Wi-Fi or Hotspot) to multiple mobile clients directly via their web browsers—no app installation required.
 
 This is the perfect solution for hosting movie nights where the host plays the video on a laptop, and friends listen to perfectly synced audio on their own phones via Bluetooth or wired headphones.
@@ -68,6 +74,10 @@ Standard Bluetooth headphones inherently introduce 150-250ms of audio delay. Sin
 
 - **VLC Media Player**: Press `J` or `K` while watching to adjust the Audio Desynchronization.
 - **Web Browsers**: Use a free extension like [Global Speed](https://chrome.google.com/webstore/detail/global-speed/jpbjckjhlbgddigkcpokngfkbfekimdn) to delay the video.
+
+## Author
+
+Built with ❤️ by **Rudra**
 
 ## License
 
