@@ -1,8 +1,8 @@
 # LocalCast Audio
 
-[![GitHub stars](https://img.shields.io/github/stars/yourusername/localcast-audio?style=social)](https://github.com/yourusername/localcast-audio/stargazers)
-[![GitHub forks](https://img.shields.io/github/forks/yourusername/localcast-audio?style=social)](https://github.com/yourusername/localcast-audio/network/members)
-[![GitHub issues](https://img.shields.io/github/issues/yourusername/localcast-audio)](https://github.com/yourusername/localcast-audio/issues)
+[![GitHub stars](https://img.shields.io/github/stars/RudraSomaiya/LocalCast-Audio?style=social)](https://github.com/RudraSomaiya/LocalCast-Audio/stargazers)
+[![GitHub forks](https://img.shields.io/github/forks/RudraSomaiya/LocalCast-Audio?style=social)](https://github.com/RudraSomaiya/LocalCast-Audio/network/members)
+[![GitHub issues](https://img.shields.io/github/issues/RudraSomaiya/LocalCast-Audio)](https://github.com/RudraSomaiya/LocalCast-Audio/issues)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 
@@ -42,8 +42,8 @@ Because Windows does not natively allow command-line tools to capture speaker lo
 Clone the repository and install dependencies:
 
 ```bash
-git clone https://github.com/yourusername/localcast-audio.git
-cd localcast-audio
+git clone https://github.com/RudraSomaiya/LocalCast-Audio.git
+cd LocalCast-Audio
 
 # Install backend dependencies
 npm install
